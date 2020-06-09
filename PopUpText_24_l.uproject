@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{B5A1F6F5-43F6-C30B-F13C-C68FC4426E96}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "PopUpText_24_l",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
